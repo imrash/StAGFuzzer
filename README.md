@@ -4,7 +4,7 @@ Pattern-Aware Phase Alternation for Fuzzing Smart Contracts
 # Idea
 STAGFUZZER is a probabilistic phase-alternating technique supported by a suite of cross-transaction single-variable (ctsv) and intra-transaction cross-variable (itcv) state access patterns.
 
-#Setup
+# Setup
 We implement our test framework in Python with one miner and Geth v1.9.0.
 We perform the experiments on a virtual machine with 64GB RAM, an 8-core Intel Xeon 2.2 GHz processor, and Ubuntu 18.04.
 
